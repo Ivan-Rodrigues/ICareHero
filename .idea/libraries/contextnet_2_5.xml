@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="contextnet-2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Mestrado UFMA/Allan/ContextNet/contextnet-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
